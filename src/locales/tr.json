@@ -4,59 +4,93 @@
     "features": "Özellikler",
     "pricing": "Fiyatlandırma",
     "faq": "SSS",
+    "testimonials": "Yorumlar",
     "login": "Giriş Yap",
     "signup": "Kayıt Ol",
     "logout": "Çıkış"
   },
-  "landing": {
-    "heroTitle": "Her Yerde Dil Öğrenin",
-    "heroSubtitle": "Ana dili konuşanlarla ve akıllı araçlarla pratik yap",
-    "getStarted": "Başla",
-    "courses": "Kurslar",
+"landing": {
+    "heroTitle": "Birebir Konuşarak Dil Öğren",
+    "heroSubtitle": "Gerçek öğretmenlerle birebir canlı dersler yap, konuşarak özgüvenini artır",
+    "getStarted": "Hemen Başla",
+    "viewPricing": "Kredi Paketleri",
+    
     "whyChoose": "Neden TalkUp?",
-    "aiTools": "Akıllı AI Araçları",
-    "aiToolsDesc": "AI tabanlı telaffuz ve gramer düzeltme.",
-    "liveTutors": "Canlı Öğretmenler",
-    "liveTutorsDesc": "İstediğiniz zaman ana dili konuşanlarla canlı dersler alın.",
-    "multiLanguages": "Çoklu Dil Desteği",
-    "multiLanguagesDesc": "20+ global dil ve lehçe arasından seçim yapın.",
-    "popularCourses": "Popüler Kurslar",
-    "spanishCourse": "Başlangıç İspanyolcası",
-    "englishCourse": "İş İngilizcesi",
-    "japaneseCourse": "Konuşma Japoncası",
-    "duration": "Süre",
-    "weeks": "hafta",
-    "viewCourse": "Kursu Görüntüle",
-    "pricing": "Basit Fiyatlandırma",
-    "starter": "Başlangıç",
-    "starterDesc": "Temel araçlar ve sınırlı erişim.",
-    "basicLessons": "Temel Dersler",
-    "limitedTools": "Sınırlı AI Araçları",
-    "communityAccess": "Topluluk Erişimi",
-    "startFree": "Ücretsiz Başlat",
-    "pro": "Pro",
-    "proDesc": "Tüm erişim öğrenme planı.",
-    "month": "ay",
-    "allLanguages": "Tüm Dersler",
-    "tutorAccess": "Canlı Öğretmen Seansları",
-    "fullTools": "Tam AI Araç Seti",
-    "subscribe": "Abone Ol",
-    "enterprise": "Kurumsal",
-    "custom": "Özel",
-    "enterpriseDesc": "Okullar veya şirketler için.",
-    "groupTraining": "Çoklu Kullanıcı Paneli",
-    "dedicatedSupport": "Özel Destek",
-    "customCurriculum": "Özel Müfredat",
-    "contactSales": "Satış Ekibiyle İletişime Geçin"
+    "featuresTitle": "Özellikler",
+    "features": {
+      "liveClass": {
+        "title": "Birebir Canlı Ders",
+        "desc": "Gerçek eğitmenlerle birebir video görüşme üzerinden anında ders yapın. Doğal konuşma, gerçek senaryolar, özgüven kazandırır."
+      },
+      "flexTime": {
+        "title": "Esnek Zaman Planlaması",
+        "desc": "Öğretmenlerin ve sizin uygunluk takviminiz otomatik eşleşir. Öğrenci-öğretmen senkronizasyonu dakikalar içinde tamamlanır."
+      },
+      "practice": {
+        "title": "Konuşma Odaklı Pratik",
+        "desc": "Kalıplardan uzak, gerçek konuşmalarla öğrenme. Ders değil; diyalog, etkileşim, eğlence!"
+      }
+    },
+
+    "pricingTitle": "Kredi Paketleri",
+    "mostPopular": "En Popüler",
+    "buyNow": "Satın Al",
+    "selectPackage": "Paketi Seç",
+
+    "howItWorks": "Nasıl Çalışır?",
+    "steps": {
+      "step1": {
+        "title": "Kredi Paketi Seç",
+        "desc": "İhtiyacına uygun kredi paketini seç ve hemen başla."
+      },
+      "step2": {
+        "title": "Öğretmenini Seç",
+        "desc": "Müsait öğretmenler arasından sana en uygun olanı seç."
+      },
+      "step3": {
+        "title": "Randevu Al",
+        "desc": "Öğretmenin müsait olduğu zamanlardan sana uygun olanı seç."
+      },
+      "step4": {
+        "title": "Derse Hazırlan",
+        "desc": "Ders saatinden 15 dakika önce katıl butonu aktif olur."
+      },
+      "step5": {
+        "title": "Konuşmaya Başla",
+        "desc": "Birebir görüntülü görüşme ile pratik yapmaya başla."
+      }
+    },
+
+    "testimonialsTitle": "Öğrencilerimiz Ne Diyor?",
+    "testimonials": {
+      "testimonial1": {
+        "quote": "TalkUp ile ilk dersimden itibaren daha özgüvenli konuşmaya başladım. Öğretmenlerle birebir pratik yapmak gerçekten çok faydalı.",
+        "author": "Zeynep K."
+      },
+      "testimonial2": {
+        "quote": "Kredi sistemi çok pratik. İstediğim zaman ders alabiliyorum ve öğretmenlerle konuşma pratiği yapabiliyorum.",
+        "author": "Mehmet D."
+      },
+      "testimonial3": {
+        "quote": "Esnek zaman seçenekleri harika. İş çıkışı ya da öğle arasında bile ders yapabiliyorum.",
+        "author": "Elif A."
+      }
+    },
+
+    "cta": {
+      "title": "Konuşarak Öğrenmeye Hazır mısın?",
+      "subtitle": "Kendine en uygun öğretmeni seç, birebir canlı derse katıl ve akıcı konuşmaya başla!",
+      "button": "Kredi Paketi Seç"
+    }
   },
   "auth": {
     "email": "E-posta",
     "password": "Şifre",
-    "name": "Ad Soyad",
+    "name": "Tam Adınız",
     "loginTitle": "Tekrar Hoşgeldiniz",
-    "signupTitle": "Hesap Oluştur",
+    "signupTitle": "Hesap Oluşturun",
     "loginSuccess": "Giriş başarılı!",
-    "signupSuccess": "Kaydınız başarıyla oluşturuldu. E-postanızı kontrol edin."
+    "signupSuccess": "Hesabınız başarıyla oluşturuldu. E-postanızı kontrol edin."
   },
   "dashboard": {
     "student": {
@@ -83,7 +117,7 @@
     }
   },
   "legal": {
-    "terms": "Hizmet Şartları",
+    "terms": "Kullanım Şartları",
     "privacy": "Gizlilik Politikası",
     "lastUpdated": "Son güncelleme"
   },
@@ -107,8 +141,8 @@
   },
   "credits": {
     "title": "Kredi Satın Al",
-    "buyNow": "Şimdi Satın Al",
-    "selectPackage": "Bir kredi paketi seçin",
+    "buyNow": "Satın Al",
+    "selectPackage": "Kredi paketi seçin",
     "paymentSuccess": "Ödeme Başarılı!",
     "paymentFail": "Ödeme Başarısız",
     "creditsAdded": "Krediler hesabınıza yüklendi",
@@ -135,7 +169,7 @@
       "date": "Tarih"
     },
     "analytics": {
-      "title": "Yönetici Paneli",
+      "title": "Admin Paneli",
       "revenue": "Toplam Gelir",
       "creditsSold": "Satılan Krediler",
       "creditsUsed": "Kullanılan Krediler",
