@@ -4,13 +4,11 @@ import en from './locales/en.json'
 import tr from './locales/tr.json'
 import ru from './locales/ru.json'
 
-const userLang = navigator.language.slice(0, 2)
-const defaultLocale = ['tr', 'ru'].includes(userLang) ? userLang : 'en'
-
+// Tarayıcı diline bakılmaksızın varsayılan olarak Türkçe kullanılacak
 export const i18n = createI18n({
   legacy: false,
   globalInjection: true,
-  locale: defaultLocale,
+  locale: 'tr', // Burayı 'tr' olarak değiştirdim
   fallbackLocale: 'en',
   messages: { en, tr, ru }
 })

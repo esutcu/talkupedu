@@ -1,8 +1,9 @@
 <template>
+  <MainLayout>
     <router-view />
-  </template>
-  
-  <script setup>
-  // App shell – layout wraps router-view in your layouts later
-  </script>
-  
+  </MainLayout>
+</template>
+
+<script setup>
+import MainLayout from '@/layouts/MainLayout.vue'
+</script>

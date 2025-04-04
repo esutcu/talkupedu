@@ -1,40 +1,189 @@
 {
-    "layout": {
-      "home": "Home",
-      "features": "Features",
-      "pricing": "Pricing",
-      "faq": "FAQ",
-      "login": "Login",
-      "signup": "Sign Up",
-      "logout": "Logout"
+  "layout": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "landing": {
+    "heroTitle": "Learn Languages Anytime, Anywhere",
+    "heroSubtitle": "Practice with native speakers & smart AI tools",
+    "getStarted": "Get Started",
+    "courses": "Courses",
+    "whyChoose": "Why TalkUp?",
+    "aiTools": "Smart AI Tools",
+    "aiToolsDesc": "AI-based pronunciation & grammar correction.",
+    "liveTutors": "Live Tutors",
+    "liveTutorsDesc": "Book live sessions with native speakers anytime.",
+    "multiLanguages": "Multiple Languages",
+    "multiLanguagesDesc": "Choose from 20+ global languages and dialects.",
+    "popularCourses": "Popular Courses",
+    "spanishCourse": "Beginner Spanish",
+    "englishCourse": "Business English",
+    "japaneseCourse": "Conversational Japanese",
+    "duration": "Duration",
+    "weeks": "weeks",
+    "viewCourse": "View Course",
+    "pricing": "Simple Pricing",
+    "starter": "Starter",
+    "starterDesc": "Basic tools and limited access.",
+    "basicLessons": "Basic Lessons",
+    "limitedTools": "Limited AI Tools",
+    "communityAccess": "Community Access",
+    "startFree": "Start Free",
+    "pro": "Pro",
+    "proDesc": "All-access learning plan.",
+    "month": "month",
+    "allLanguages": "All Courses",
+    "tutorAccess": "Live Tutor Sessions",
+    "fullTools": "Full AI Toolkit",
+    "subscribe": "Subscribe",
+    "enterprise": "Enterprise",
+    "custom": "Custom",
+    "enterpriseDesc": "For schools or companies.",
+    "groupTraining": "Group Training",
+    "dedicatedSupport": "Dedicated Support",
+    "customCurriculum": "Custom Curriculum",
+    "contactSales": "Contact Sales"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "loginTitle": "Welcome back",
+    "signupTitle": "Create your account",
+    "loginSuccess": "Login successful!",
+    "signupSuccess": "Your account was created successfully. Please check your email."
+  },
+  "dashboard": {
+    "student": {
+      "title": "Your Dashboard",
+      "credits": "Your Credits",
+      "lowCredits": "⚠️ You are running low on credits",
+      "bookClass": "Book a Class",
+      "joinNow": "Join Class",
+      "withTeacher": "Teacher",
+      "noClasses": "No upcoming classes yet."
     },
-    "landing": {
-      "heroTitle": "Learn Languages Anytime, Anywhere",
-      "heroSubtitle": "Practice with native speakers & smart AI tools",
-      "getStarted": "Get Started"
-    },
-    "auth": {
-      "email": "Email",
-      "password": "Password",
-      "name": "Full Name",
-      "loginTitle": "Welcome back",
-      "signupTitle": "Create your account"
-    },
-    "dashboard": {
-      "student": {
-        "title": "Your Dashboard",
-        "credits": "Your Credits",
-        "lowCredits": "⚠️ You are running low on credits"
-      },
-      "teacher": {
-        "title": "Your Sessions",
-        "hoursTaught": "Hours Taught"
-      }
-    },
-    "legal": {
-      "terms": "Terms of Service",
-      "privacy": "Privacy Policy",
-      "lastUpdated": "Last updated on"
+    "teacher": {
+      "title": "Your Sessions",
+      "nextClass": "Next Class",
+      "setAvailability": "Set Availability",
+      "hoursTaught": "Hours Taught",
+      "withStudent": "Student",
+      "notAvailableYet": "Not Available Yet",
+      "noClasses": "No upcoming classes yet.",
+      "saveAvailability": "Save Availability",
+      "selectAtLeastOne": "Select at least one time slot.",
+      "errorSaving": "Error saving availability.",
+      "availabilitySaved": "Availability saved."
     }
+  },
+  "legal": {
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "lastUpdated": "Last updated"
+  },
+  "days": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "referral": {
+    "title": "Invite Friends",
+    "description": "Share your link and earn bonus credits!",
+    "yourLink": "Your Referral Link",
+    "invited": "Friends You've Invited",
+    "noReferrals": "No one has joined yet.",
+    "bonusPending": "Bonus Pending",
+    "bonusReceived": "Bonus Received"
+  },
+  "credits": {
+    "title": "Buy Credits",
+    "buyNow": "Buy Now",
+    "selectPackage": "Choose a credit package",
+    "paymentSuccess": "Payment Successful!",
+    "paymentFail": "Payment Failed",
+    "creditsAdded": "Credits have been added to your account",
+    "credits": "credits",
+    "noPackages": "No credit packages available right now.",
+    "loginRequired": "Please log in to purchase credits.",
+    "paymentInitError": "Error initializing payment.",
+    "backToDashboard": "Back to Dashboard"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "analytics": "Analytics",
+      "analyticsDesc": "View platform statistics",
+      "packages": "Credit Packages",
+      "packagesDesc": "Manage and price packages",
+      "referral": "Referral Program",
+      "referralDesc": "Manage referral rewards",
+      "recentActivity": "Recent Activity",
+      "recentPayments": "Recent Payments",
+      "user": "User",
+      "package": "Package",
+      "amount": "Amount",
+      "date": "Date"
+    },
+    "analytics": {
+      "title": "Admin Dashboard",
+      "revenue": "Total Revenue",
+      "creditsSold": "Credits Sold",
+      "creditsUsed": "Credits Used",
+      "lowCreditUsers": "Students Under 10 Credits",
+      "topTeacher": "Top Teacher",
+      "monthlySales": "Monthly Sales"
+    },
+    "packages": {
+      "title": "Credit Packages",
+      "packageName": "Package Name",
+      "credits": "Credits",
+      "price": "Price ($)",
+      "addPackage": "Add Package",
+      "creditsFor": "credits for"
+    },
+    "referral": {
+      "title": "Referral Program Settings",
+      "enable": "Enable Referral Program",
+      "inviteBonus": "Invite Bonus (credits)",
+      "joinBonus": "Join Bonus (credits)",
+      "targetGroup": "Target Group",
+      "allStudents": "All Students",
+      "selectedOnly": "Selected Only",
+      "saveSettings": "Save Settings",
+      "saveSuccess": "Referral program updated."
+    }
+  },
+  "booking": {
+    "bookClass": "Book a Class",
+    "bookClassByTime": "Book a Class by Time",
+    "pickTeacher": "Select a Teacher",
+    "chooseTeacher": "Choose a teacher",
+    "pickDate": "Pick a Date",
+    "pickTime": "Select a Time",
+    "selectHour": "Select hour",
+    "bookThisTeacher": "Book This Teacher",
+    "classTime": "Class Time",
+    "joinNow": "Join Now",
+    "availableTimes": "Available Times",
+    "availableTeachers": "Available Teachers",
+    "confirmBooking": "Confirm Booking",
+    "classStarts": "Class starts at",
+    "bookThisSlot": "Book This Slot",
+    "bookingConfirmed": "Booking Confirmed",
+    "booked": "Class Booked!",
+    "meetLink": "Google Meet Link",
+    "join": "Join",
+    "notAvailableYet": "Available 15 minutes before class",
+    "notEnoughCredits": "Not enough credits. Please purchase more to book this class."
   }
-  
+}

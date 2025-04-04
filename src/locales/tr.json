@@ -1,40 +1,189 @@
 {
-    "layout": {
-      "home": "Ana Sayfa",
-      "features": "Özellikler",
-      "pricing": "Fiyatlandırma",
-      "faq": "SSS",
-      "login": "Giriş Yap",
-      "signup": "Kayıt Ol",
-      "logout": "Çıkış"
+  "layout": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "pricing": "Fiyatlandırma",
+    "faq": "SSS",
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "logout": "Çıkış"
+  },
+  "landing": {
+    "heroTitle": "Her Yerde Dil Öğrenin",
+    "heroSubtitle": "Ana dili konuşanlarla ve akıllı araçlarla pratik yap",
+    "getStarted": "Başla",
+    "courses": "Kurslar",
+    "whyChoose": "Neden TalkUp?",
+    "aiTools": "Akıllı AI Araçları",
+    "aiToolsDesc": "AI tabanlı telaffuz ve gramer düzeltme.",
+    "liveTutors": "Canlı Öğretmenler",
+    "liveTutorsDesc": "İstediğiniz zaman ana dili konuşanlarla canlı dersler alın.",
+    "multiLanguages": "Çoklu Dil Desteği",
+    "multiLanguagesDesc": "20+ global dil ve lehçe arasından seçim yapın.",
+    "popularCourses": "Popüler Kurslar",
+    "spanishCourse": "Başlangıç İspanyolcası",
+    "englishCourse": "İş İngilizcesi",
+    "japaneseCourse": "Konuşma Japoncası",
+    "duration": "Süre",
+    "weeks": "hafta",
+    "viewCourse": "Kursu Görüntüle",
+    "pricing": "Basit Fiyatlandırma",
+    "starter": "Başlangıç",
+    "starterDesc": "Temel araçlar ve sınırlı erişim.",
+    "basicLessons": "Temel Dersler",
+    "limitedTools": "Sınırlı AI Araçları",
+    "communityAccess": "Topluluk Erişimi",
+    "startFree": "Ücretsiz Başlat",
+    "pro": "Pro",
+    "proDesc": "Tüm erişim öğrenme planı.",
+    "month": "ay",
+    "allLanguages": "Tüm Dersler",
+    "tutorAccess": "Canlı Öğretmen Seansları",
+    "fullTools": "Tam AI Araç Seti",
+    "subscribe": "Abone Ol",
+    "enterprise": "Kurumsal",
+    "custom": "Özel",
+    "enterpriseDesc": "Okullar veya şirketler için.",
+    "groupTraining": "Çoklu Kullanıcı Paneli",
+    "dedicatedSupport": "Özel Destek",
+    "customCurriculum": "Özel Müfredat",
+    "contactSales": "Satış Ekibiyle İletişime Geçin"
+  },
+  "auth": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "name": "Ad Soyad",
+    "loginTitle": "Tekrar Hoşgeldiniz",
+    "signupTitle": "Hesap Oluştur",
+    "loginSuccess": "Giriş başarılı!",
+    "signupSuccess": "Kaydınız başarıyla oluşturuldu. E-postanızı kontrol edin."
+  },
+  "dashboard": {
+    "student": {
+      "title": "Paneliniz",
+      "credits": "Kredileriniz",
+      "lowCredits": "⚠️ Kredileriniz azalıyor",
+      "bookClass": "Ders Ayır",
+      "joinNow": "Derse Katıl",
+      "withTeacher": "Öğretmen",
+      "noClasses": "Henüz rezerve edilmiş dersiniz yok."
     },
-    "landing": {
-      "heroTitle": "Her Yerde Dil Öğrenin",
-      "heroSubtitle": "Ana dili konuşanlarla ve akıllı araçlarla pratik yap",
-      "getStarted": "Başla"
-    },
-    "auth": {
-      "email": "E-posta",
-      "password": "Şifre",
-      "name": "Ad Soyad",
-      "loginTitle": "Tekrar Hoşgeldiniz",
-      "signupTitle": "Hesap Oluştur"
-    },
-    "dashboard": {
-      "student": {
-        "title": "Paneliniz",
-        "credits": "Kredileriniz",
-        "lowCredits": "⚠️ Kredileriniz azalıyor"
-      },
-      "teacher": {
-        "title": "Dersleriniz",
-        "hoursTaught": "Verilen Ders Saatleri"
-      }
-    },
-    "legal": {
-      "terms": "Hizmet Şartları",
-      "privacy": "Gizlilik Politikası",
-      "lastUpdated": "Son güncelleme"
+    "teacher": {
+      "title": "Dersleriniz",
+      "nextClass": "Sıradaki Ders",
+      "setAvailability": "Uygunluk Ayarla",
+      "hoursTaught": "Verilen Ders Saatleri",
+      "withStudent": "Öğrenci",
+      "notAvailableYet": "Henüz Müsait Değil",
+      "noClasses": "Henüz rezerve edilmiş dersiniz yok.",
+      "saveAvailability": "Müsaitliği Kaydet",
+      "selectAtLeastOne": "En az bir zaman dilimi seçin.",
+      "errorSaving": "Müsaitlik kaydedilirken hata oluştu.",
+      "availabilitySaved": "Müsaitlik kaydedildi."
     }
+  },
+  "legal": {
+    "terms": "Hizmet Şartları",
+    "privacy": "Gizlilik Politikası",
+    "lastUpdated": "Son güncelleme"
+  },
+  "days": {
+    "monday": "Pazartesi",
+    "tuesday": "Salı",
+    "wednesday": "Çarşamba",
+    "thursday": "Perşembe",
+    "friday": "Cuma",
+    "saturday": "Cumartesi",
+    "sunday": "Pazar"
+  },
+  "referral": {
+    "title": "Arkadaşlarını Davet Et",
+    "description": "Bağlantını paylaş, bonus kredi kazan!",
+    "yourLink": "Davet Bağlantınız",
+    "invited": "Davet Ettiğiniz Kişiler",
+    "noReferrals": "Henüz katılan yok.",
+    "bonusPending": "Bonus Beklemede",
+    "bonusReceived": "Bonus Alındı"
+  },
+  "credits": {
+    "title": "Kredi Satın Al",
+    "buyNow": "Şimdi Satın Al",
+    "selectPackage": "Bir kredi paketi seçin",
+    "paymentSuccess": "Ödeme Başarılı!",
+    "paymentFail": "Ödeme Başarısız",
+    "creditsAdded": "Krediler hesabınıza yüklendi",
+    "credits": "kredi",
+    "noPackages": "Şu anda kredi paketi bulunmuyor.",
+    "loginRequired": "Kredi satın almak için giriş yapmalısınız.",
+    "paymentInitError": "Ödeme başlatılırken hata oluştu.",
+    "backToDashboard": "Panele Geri Dön"
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Paneli",
+      "analytics": "Analitik",
+      "analyticsDesc": "Platform istatistiklerini görüntüle",
+      "packages": "Kredi Paketleri",
+      "packagesDesc": "Paketleri yönet ve fiyatlandır",
+      "referral": "Referans Programı",
+      "referralDesc": "Referans ödüllerini yönet",
+      "recentActivity": "Son Aktiviteler",
+      "recentPayments": "Son Ödemeler",
+      "user": "Kullanıcı",
+      "package": "Paket",
+      "amount": "Tutar",
+      "date": "Tarih"
+    },
+    "analytics": {
+      "title": "Yönetici Paneli",
+      "revenue": "Toplam Gelir",
+      "creditsSold": "Satılan Krediler",
+      "creditsUsed": "Kullanılan Krediler",
+      "lowCreditUsers": "10 Krediden Az Öğrenci",
+      "topTeacher": "En Çok Ders Veren Eğitmen",
+      "monthlySales": "Aylık Satışlar"
+    },
+    "packages": {
+      "title": "Kredi Paketleri",
+      "packageName": "Paket İsmi",
+      "credits": "Krediler",
+      "price": "Fiyat ($)",
+      "addPackage": "Paket Ekle",
+      "creditsFor": "kredi için"
+    },
+    "referral": {
+      "title": "Referans Programı Ayarları",
+      "enable": "Referans Programını Etkinleştir",
+      "inviteBonus": "Davet Bonusu (kredi)",
+      "joinBonus": "Katılım Bonusu (kredi)",
+      "targetGroup": "Hedef Grup",
+      "allStudents": "Tüm Öğrenciler",
+      "selectedOnly": "Yalnızca Seçilenler",
+      "saveSettings": "Ayarları Kaydet",
+      "saveSuccess": "Referans programı güncellendi."
+    }
+  },
+  "booking": {
+    "bookClass": "Ders Rezervasyonu",
+    "bookClassByTime": "Zamana Göre Ders Rezervasyonu",
+    "pickTeacher": "Bir Öğretmen Seç",
+    "chooseTeacher": "Öğretmen seçin",
+    "pickDate": "Tarih Seçin",
+    "pickTime": "Bir Zaman Seç",
+    "selectHour": "Saat seçin",
+    "bookThisTeacher": "Bu Öğretmeni Seç",
+    "classTime": "Ders Zamanı",
+    "joinNow": "Şimdi Katıl",
+    "availableTimes": "Müsait Zamanlar",
+    "availableTeachers": "Uygun Öğretmenler",
+    "confirmBooking": "Dersi Onayla",
+    "classStarts": "Ders başlangıcı",
+    "bookThisSlot": "Bu Zamanı Seç",
+    "bookingConfirmed": "Rezervasyon Onaylandı",
+    "booked": "Ders Rezerve Edildi!",
+    "meetLink": "Google Meet Bağlantısı",
+    "join": "Katıl",
+    "notAvailableYet": "Ders başlamadan 15 dakika önce aktif olur",
+    "notEnoughCredits": "Yeterli krediniz yok. Lütfen daha fazla kredi satın alın."
   }
-  
+}
