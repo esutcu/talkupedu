@@ -1,0 +1,40 @@
+{
+    "layout": {
+      "home": "Home",
+      "features": "Features",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "login": "Login",
+      "signup": "Sign Up",
+      "logout": "Logout"
+    },
+    "landing": {
+      "heroTitle": "Learn Languages Anytime, Anywhere",
+      "heroSubtitle": "Practice with native speakers & smart AI tools",
+      "getStarted": "Get Started"
+    },
+    "auth": {
+      "email": "Email",
+      "password": "Password",
+      "name": "Full Name",
+      "loginTitle": "Welcome back",
+      "signupTitle": "Create your account"
+    },
+    "dashboard": {
+      "student": {
+        "title": "Your Dashboard",
+        "credits": "Your Credits",
+        "lowCredits": "⚠️ You are running low on credits"
+      },
+      "teacher": {
+        "title": "Your Sessions",
+        "hoursTaught": "Hours Taught"
+      }
+    },
+    "legal": {
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "lastUpdated": "Last updated on"
+    }
+  }
+  

@@ -1,0 +1,40 @@
+{
+    "layout": {
+      "home": "Ana Sayfa",
+      "features": "Özellikler",
+      "pricing": "Fiyatlandırma",
+      "faq": "SSS",
+      "login": "Giriş Yap",
+      "signup": "Kayıt Ol",
+      "logout": "Çıkış"
+    },
+    "landing": {
+      "heroTitle": "Her Yerde Dil Öğrenin",
+      "heroSubtitle": "Ana dili konuşanlarla ve akıllı araçlarla pratik yap",
+      "getStarted": "Başla"
+    },
+    "auth": {
+      "email": "E-posta",
+      "password": "Şifre",
+      "name": "Ad Soyad",
+      "loginTitle": "Tekrar Hoşgeldiniz",
+      "signupTitle": "Hesap Oluştur"
+    },
+    "dashboard": {
+      "student": {
+        "title": "Paneliniz",
+        "credits": "Kredileriniz",
+        "lowCredits": "⚠️ Kredileriniz azalıyor"
+      },
+      "teacher": {
+        "title": "Dersleriniz",
+        "hoursTaught": "Verilen Ders Saatleri"
+      }
+    },
+    "legal": {
+      "terms": "Hizmet Şartları",
+      "privacy": "Gizlilik Politikası",
+      "lastUpdated": "Son güncelleme"
+    }
+  }
+  

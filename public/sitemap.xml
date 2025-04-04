@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://talkup.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://talkup.com/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://talkup.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://talkup.com/ru/" />
+  </url>
+
+  <!-- Pricing -->
+  <url>
+    <loc>https://talkup.com/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://talkup.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://talkup.com/tr/pricing" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://talkup.com/ru/pricing" />
+  </url>
+
+  <!-- Legal -->
+  <url>
+    <loc>https://talkup.com/legal</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://talkup.com/legal" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://talkup.com/tr/legal" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://talkup.com/ru/legal" />
+  </url>
+
+</urlset>
